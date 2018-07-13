@@ -3,7 +3,7 @@ spring:
     name: secure-client
     
 server:
-  port: 8080
+  port: 8086
     
 logging:
   level:
